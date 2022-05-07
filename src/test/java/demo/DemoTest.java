@@ -8,6 +8,7 @@ public class DemoTest {
 	}
 	
 	//Milotina
+	//Milotina 2nd
 	// Greta s changes
 	public static void addNum()
 	{
